@@ -33,16 +33,21 @@
             border-bottom: 1px solid #000;
         }
         h1 {
-            text-transform: capitalize;
+            text-transform: uppercase;
             letter-spacing: 0,5px;
         }
         h2 {
-            text-transform: capitalize;
+            text-transform: uppercase;
             letter-spacing: 0,5px;
         }
         h3 {
-            text-transform: capitalize;
+            text-transform: uppercase;
             letter-spacing: 0,5px;
+        }
+        a {
+            color: rebeccapurple;
+            font-weight: 700;
+            text-decoration: none;
         }
         .aside {
             border-right: 1px solid #000;
