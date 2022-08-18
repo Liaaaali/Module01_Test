@@ -1,0 +1,19 @@
+h1 {
+    color: white;
+    background: blue;
+}
+
+p {
+    color: red;
+
+}
+
+ul {
+    background-color: blue;
+    color: white;
+}
+
+ol {
+    color: white;
+    background-color: green;
+}
